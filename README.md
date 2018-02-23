@@ -1,2 +1,2 @@
 # startmap
-overzicht van plannen
+overzicht van plannen en projecten
